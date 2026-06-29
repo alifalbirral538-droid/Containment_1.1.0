@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":7,"characterName":"$Prisoner-M-35","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Fleagus","traits":[],"initialLevel":4,"maxLevel":99,"name":"Fleagus","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(move): _move, 3\npose(atk): _atk, 3\npose(hit): _hit, 3\npose(dead): _dead, 1\nstatus_sprite: auto\nsprite_scale: 1\n</letbs_sprite>\n\n<letbs>\nai_pattern: melee_fighter\nmove_points: 6\nturn_order: auto\npassable_on_death\n</letbs>","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"$Prisoner-F-28","classId":1,"equips":[1,0,2,3,4],"faceIndex":0,"faceName":"Kelnis","traits":[],"initialLevel":4,"maxLevel":99,"name":"Kelnis","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(move): _move, 3\npose(atk): _atk, 3\npose(hit): _hit, 3\npose(dead): _dead, 1\nstatus_sprite: auto\nsprite_scale: 1\n</letbs_sprite>\n\n<letbs>\nai_pattern: ranged_fighter\nmove_points: 6\nturn_order: auto\npassable_on_death\n</letbs>","profile":""}
+]
